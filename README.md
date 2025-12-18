@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Judul Proyek
 *(Penerapan Metode Machine Learning untuk Klasifikasi Gangguan Hati Menggunakan Dataset Liver Disorders.)*
 
@@ -107,3 +108,6 @@ project/
 
 # 9. 🔁 Reproducibility
 Gunakan environment:
+=======
+# UAS_DataScience-LD
+>>>>>>> dee7ea9ed5c3b1e12bfa7f4b570dd06611cec9b5
